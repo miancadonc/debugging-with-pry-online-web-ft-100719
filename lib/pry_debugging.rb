@@ -6,5 +6,4 @@ def plus_two(num)
 	num
 end
 
-num
-
+plus_two(3)
